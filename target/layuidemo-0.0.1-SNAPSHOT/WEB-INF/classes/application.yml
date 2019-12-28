@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+    datasource:
+        url: jdbc:mysql://47.96.170.102:3306/newsmanagersystem
+        username: root
+        password: 960730
+    thymeleaf:
+      prefix: classpath:/web/
+

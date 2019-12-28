@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cgy.layuidemo.LayuidemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.371 s - in com.cgy.layuidemo.LayuidemoApplicationTests
